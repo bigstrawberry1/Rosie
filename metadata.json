@@ -1,0 +1,5 @@
+{
+  "name": "PTCG Data Insights",
+  "description": "A data visualization dashboard analyzing PokÃ©mon TCG popularity, focusing on the West Coast surge from 2024 to 2026.",
+  "requestFramePermissions": []
+}
